@@ -4,4 +4,11 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  }
+}
+
+#leah-birthday {
+    color: white;
+    font-size: 8rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
